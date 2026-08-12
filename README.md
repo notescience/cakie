@@ -1,87 +1,87 @@
 # Cakie
 
-**本地优先的桌面笔记应用**  
+**A local-first desktop notes app**  
 Your notes stay local. Secure, fast, and yours.
 
-笔记保存在你自己的电脑上，支持 Markdown 与画板，可选端到端加密的 Sync 同步。
+Notes are saved on your own computer. Supports Markdown and canvas, with optional end-to-end encrypted Sync.
 
-🌐 官网：[https://cakie.app](https://cakie.app)  
-📦 本仓库用于发布安装包与更新日志（Windows / macOS / Linux）
+🌐 Website：[https://cakie.app](https://cakie.app)  
+📦 This repository is used to release installation packages and changelogs (Windows / macOS / Linux)
 
 ---
 
-## 下载
+## Download
 
-请前往本仓库的 [**Releases**](https://github.com/notescience/cakie/releases) 页面，下载对应平台的最新版本：
+Please go to the [**Releases**](https://github.com/notescience/cakie/releases) page of this repository to download the latest version for your platform:
 
-| 平台 | 安装包 |
+| Platform | Installer |
 |------|--------|
-| Windows | `.exe` 安装程序 |
-| macOS | 见 Releases 中的 macOS 产物 |
-| Linux | 见 Releases 中的 Linux 产物 |
+| Windows | `.exe` installer |
+| macOS | See macOS builds in Releases |
+| Linux | See Linux builds in Releases |
 
-本地版**完全免费**，无需注册即可使用全部核心功能。
+The local edition is **completely free** — no registration required to use all core features.
 
-也可在官网直接下载：[https://cakie.app](https://cakie.app)
-
----
-
-## 为什么选择 Cakie
-
-- **本地优先** — 笔记以 Markdown 等纯文本形式保存在本机，离线可用，不依赖云端
-- **隐私可控** — 默认数据不出本机；仅在订阅 Sync 时上云，传输端到端加密
-- **双形态创作** — Markdown 笔记与 Excalidraw 画板无缝切换
-- **大文本也流畅** — 面向长文档编辑体验优化（宣传级：约 50 万字流畅编辑）
-- **全平台桌面端** — Windows、macOS、Linux 原生客户端
+You can also download directly from the official website: [https://cakie.app](https://cakie.app)
 
 ---
 
-## 本地版 vs Sync
+## Why Choose Cakie
 
-| | 本地版 | Sync |
+- **Local-first** — Notes are saved as plain text (Markdown) on your local machine, available offline, no cloud dependency
+- **Privacy controlled** — Data stays on your device by default; only uploaded to the cloud when you subscribe to Sync, with end-to-end encryption
+- **Dual-mode creation** — Seamlessly switch between Markdown notes and Excalidraw canvas
+- **Smooth with large texts** — Optimized for long document editing (reportedly smooth editing for ~500,000 characters)
+- **Cross-platform desktop** — Native clients for Windows, macOS, and Linux
+
+---
+
+## Local Edition vs Sync
+
+| | Local Edition | Sync |
 |--|--------|------|
-| 价格 | 免费 | ¥21/月 或 ¥189/年 |
-| 存储 | 本机纯文本 / Markdown | 端到端加密云同步 |
-| 功能 | 无限笔记与画板、离线、无需注册 | 多设备同步，服务器无法解密你的内容 |
-| 适合 | 单机使用、数据完全自控 | 需要跨设备访问与备份 |
+| Price | Free | $3/month 或 $27/year |
+| Storage | Local plain text / Markdown | End-to-end encrypted cloud sync |
+| Features | Unlimited notes & canvas, offline, no registration required | Multi-device sync, server cannot decrypt your content |
+| Best for | Single-device use, full data self-control | Cross-device access and backup |
 
-核心功能永久免费；只有需要跨设备同步时再升级 Sync。  
-详情见：[https://cakie.app](https://cakie.app) 定价页
-
----
-
-## 快速开始
-
-1. 从 [Releases](https://github.com/notescience/cakie/releases) 下载对应平台安装包
-2. 安装并打开 Cakie
-3. 开始写笔记或画板 — 数据默认保存在本地，无需账号
-
-客户端支持通过本仓库的 Releases 自动检查更新。
+Core features are free forever; upgrade to Sync only when you need cross-device synchronization.
+For details, see the pricing page at https://cakie.app
 
 ---
 
-## 反馈与支持
+## Quick Start
 
-- 🐛 Bug / 功能建议：请提交 [Issues](https://github.com/notescience/cakie/issues)
-- ✉️ 邮箱：cakie.official@outlook.com
-- 📄 隐私与条款：[https://cakie.app](https://cakie.app)
+1. Download the installer for your platform from [Releases](https://github.com/notescience/cakie/releases) 
+2. Install and launch Cakie
+3. Start writing notes or using the canvas — data is saved locally by default, no account required
+
+The client supports automatic update checking via this repository's Releases.
 
 ---
 
-## 关于本仓库
+## Feedback & Support
 
-本仓库是 **Cakie 桌面端的发版仓库**，用于：
+- 🐛 Bugs / Feature requests: Please submit an [Issues](https://github.com/notescience/cakie/issues)
+- ✉️ Email：cakie.official@outlook.com
+- 📄 Privacy & Terms：[https://cakie.app](https://cakie.app)
 
-- 发布各平台安装包
-- 维护版本更新说明（Release Notes）
-- 为客户端自动更新提供资源
+---
 
-官网与产品介绍请访问 **[cakie.app](https://cakie.app)**。
+## About This Repository
+
+This repository is the **release repository for the Cakie desktop client**, used for:
+
+- Publishing installation packages for all platforms
+- Maintaining version release notes
+- Providing resources for the client's auto-update mechanism
+
+For the official website and product introduction, please visit  **[cakie.app](https://cakie.app)**。
 
 ---
 
 <p align="center">
-  <a href="https://cakie.app">官网</a> ·
-  <a href="https://github.com/notescience/cakie/releases">下载</a> ·
-  <a href="https://github.com/notescience/cakie/issues">反馈</a>
+  <a href="https://cakie.app">Website</a> ·
+  <a href="https://github.com/notescience/cakie/releases">Download</a> ·
+  <a href="https://github.com/notescience/cakie/issues">Feedback</a>
 </p>
